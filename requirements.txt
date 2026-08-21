@@ -1,0 +1,9 @@
+fastapi[all]==0.139.0
+alembic==1.18.5
+sqlalchemy==2.0.51
+pydantic-settings==2.14.2 
+passlib==1.7.4
+bcrypt==4.0.1
+pyjwt
+faker
+pytest
